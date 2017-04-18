@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/mobicule/!svn/ver/22255/projects/shopperstop/iCatalog/Server/admin/trunk/WebContent/WEB-INF/config/spring/icatalog-admin/commons
+END
+controller-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mobicule/!svn/ver/22255/projects/shopperstop/iCatalog/Server/admin/trunk/WebContent/WEB-INF/config/spring/icatalog-admin/commons/controller-config.xml
+END
+logging-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mobicule/!svn/ver/21665/projects/shopperstop/iCatalog/Server/admin/trunk/WebContent/WEB-INF/config/spring/icatalog-admin/commons/logging-aop.xml
+END

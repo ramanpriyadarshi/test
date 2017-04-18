@@ -1,0 +1,4 @@
+function sessionFilter() {
+	
+	sessionStorage.clear();
+}
